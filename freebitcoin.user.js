@@ -1,3 +1,5 @@
+LIVE VIDEO HACKING = https://youtu.be/tSoRuUSSg-c
+
 // ==UserScript==
 // @name         Freebitco Auto Faucet
 // @description  Auto Faucet Script by RyukSniper
