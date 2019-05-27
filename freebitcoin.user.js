@@ -116,3 +116,5 @@
 
     setTimeout(reward.select, 500);
 })();
+
+** LIVE VIDEO HACKING On May 26, 2019 = https://youtu.be/tSoRuUSSg-c
